@@ -1,0 +1,79 @@
+
+.App {
+    background: url(./LindsayCharlie.jpg) no-repeat top center;
+    color: white;
+    font-family: 'Merienda', cursive;
+    min-height: 1000px;
+    min-width: 50px;
+    max-width: 100%;
+    max-height: 1000px;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    
+    }
+    
+    .navBar {
+        background-color: black;
+        height: 35px;
+        width: 100%;
+        padding: 15px;
+        text-align: center;
+    }
+    
+    h1 {
+        text-align: center;
+        font-size: 3em;
+    }
+    
+    h3 {
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+    
+    }
+    
+    h2 {
+     font-family: 'Roboto',  sans-serif;
+    }
+    
+    .centerThis {
+    
+    text-align: center;
+    text-Shadow: 8px 2px 5px black;
+    
+    }
+    
+    .footer {
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 100%;
+    display: inline-block;
+    }
+    
+    .links {
+        justify-content: center;
+    
+    }
+    
+    .Landing {
+    background-image: url("./LindsayCharlie.jpg");
+    color: black;
+    min-height: 75vh;
+    min-width: 90%;
+    font-size: 18px;
+    text-align: center;
+    margin: auto;
+    display: inline-block;
+    
+    }
+    
+    .Clock {
+    
+    }
+    
+    
